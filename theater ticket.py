@@ -7,11 +7,6 @@ d = a.strftime("%H:%M:%S")
 # print(b)
 # print(c)
 # print(d)
-re=[]
-pl=[]
-gl=[]
-sl=[]
-
 
 Tickets=int(input("Enter the number of tickets: "))
 if Tickets>30:
